@@ -1,6 +1,6 @@
 # React + Vite
 # use of Technology →  React.js,  Tailwind css,  next UI 
-# Live Link. →  https://assingment-7-flax.vercel.app
+# Live Link. →  https://reacts-aiss.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
